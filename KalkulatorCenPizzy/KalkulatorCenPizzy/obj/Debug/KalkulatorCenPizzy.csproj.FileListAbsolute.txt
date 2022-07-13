@@ -1,0 +1,10 @@
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.csprojAssemblyReference.cache
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.Form1.resources
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.Properties.Resources.resources
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.csproj.GenerateResource.cache
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.csproj.CoreCompileInputs.cache
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\bin\Debug\KalkulatorCenPizzy.exe.config
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\bin\Debug\KalkulatorCenPizzy.exe
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\bin\Debug\KalkulatorCenPizzy.pdb
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.exe
+D:\Myron\Pizza\KalkulatorCenPizzy\KalkulatorCenPizzy\obj\Debug\KalkulatorCenPizzy.pdb
